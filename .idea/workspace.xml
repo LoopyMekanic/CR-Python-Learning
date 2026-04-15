@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a5a56df-d029-44fe-a0a6-871ac9c2d53c" name="Changes" comment="CR Python Learning">
-      <change afterPath="$PROJECT_DIR$/Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_While_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/If_Elif_Else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InfARGS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RtnValFrmFunc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KWARGS.py" beforeDir="false" afterPath="$PROJECT_DIR$/KWARGS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +222,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776130740368</updated>
       <workItem from="1776130741378" duration="10537000" />
-      <workItem from="1776213537027" duration="2604000" />
+      <workItem from="1776213537027" duration="3678000" />
     </task>
     <task id="LOCAL-00001" summary="CR Python Learning">
       <option name="closed" value="true" />
@@ -261,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776210042878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CR Python Learning">
+      <option name="closed" value="true" />
+      <created>1776217250095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776217250095</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +288,7 @@
     <SUITE FILE_PATH="coverage/FirstProgram$KWARGS.coverage" NAME="KWARGS Coverage Results" MODIFIED="1776210508272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstProgram$Main2.coverage" NAME="Main2 Coverage Results" MODIFIED="1776209357067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstProgram$If_Elif_Else.coverage" NAME="If_Elif_Else Coverage Results" MODIFIED="1776212823013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FirstProgram$Calc.coverage" NAME="Calc Coverage Results" MODIFIED="1776216944623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FirstProgram$Calc.coverage" NAME="Calc Coverage Results" MODIFIED="1776217995076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstProgram$InfARGS.coverage" NAME="InfARGS Coverage Results" MODIFIED="1776212133030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstProgram$For_While_Loops.coverage" NAME="For_While_Loops Coverage Results" MODIFIED="1776213418789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstProgram$main.coverage" NAME="main Coverage Results" MODIFIED="1776135019765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
